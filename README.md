@@ -9,6 +9,8 @@
 
 - ✊ FullStack Web Developer at TetroByte
 
+- 📅 Joined GitHub on **September 14, 2022**
+
 - 👨‍💻 Check out my <a href="https://github.com/Tusho7?tab=repositories"><b>repositories</b></a> for all of my projects
 
 - 📫 How to reach me via email: <b>sandrotushurashvili7@gmail.com</b>
