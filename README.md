@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusho7" alt="Tusho7" /></a> </p>
 
-- ✊ Frontend Web Developer at ATMS
-
 - ✊ FullStack Web Developer at TetroByte
 
 - 📅 Joined GitHub on **September 14, 2022**
