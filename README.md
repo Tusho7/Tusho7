@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandro Tushurashvili</h1>
 <h3 align="center">Full Stack Developer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusho7&label=Profile%20views&color=3f5427&style=plastic" alt="Tusho7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusho7&label=Profile%20views&color=3f5427&style=plastic" alt="Tusho7"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tusho7" alt="Tusho7" /></a> </p>
 
