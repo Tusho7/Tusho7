@@ -11,6 +11,8 @@
 
 - 👨‍💻 Check out my <a href="https://github.com/Tusho7?tab=repositories"><b>repositories</b></a> for all of my projects
 
+- 🌐 Check out my portfolio: [sandrodev.vercel.app](https://sandrodev.vercel.app/)
+
 - 📫 How to reach me via email: <b>sandrotushurashvili7@gmail.com</b>
 
 - 🔭 I’m currently working on Private Project
