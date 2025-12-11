@@ -81,7 +81,7 @@ My philosophy is simple: **Empathy > Technology.** I focus on the "why" before b
 
 <p align="center">
   <a href="https://github.com/Tusho7">
-    <img src="https://github.com/Tusho7/Tusho7/blob/main/sandro-github-streak.svg" alt="Sandro Tushurashvili's GitHub streak"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusho7&theme=radical&border=7F3FBF&background=0D1117" alt="Sandro Tushurashvili's GitHub streak"/>
   </a>
 </p>
 
